@@ -32,6 +32,13 @@ Akses http://127.0.0.1:8000/
 ![g8](https://user-images.githubusercontent.com/109897826/180876682-8bf8b3e7-757d-484a-ba4d-cb9aab77838c.jpg)
 
 
+Pust github
 
+![g9](https://user-images.githubusercontent.com/109897826/180877578-ca9983ec-a330-421c-9a54-012da125507d.jpg)
+
+
+Untuk VM 192.168.1.89 sudah dicoba untuk login dengan port 2233 untuk install ngin
+
+Install nginx php setting dhcp kemudian restart untuk port kedua sudah tidak bisa login ssh
 
 
