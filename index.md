@@ -42,4 +42,4 @@ Habis restart network untuk VM 192.168.1.89 sudah dicoba untuk login dengan port
 Install nginx php setting dhcp kemudian restart untuk port kedua sudah tidak bisa login ssh
 
 
-<a href="https://gembemlmemble.com">Gembel Memble</a>
+<a href="https://gembelmemble.com">Gembel Memble</a>
